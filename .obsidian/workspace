@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "960892a28e5ef99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d60fd7664bb6ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2 - Fundamentos de Js.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a80886431969dbd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb3a50534eca426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5f50580019afb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4df823fb7b2e8db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "37273858c5eccfa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb5eed935e66d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6796d79278b92b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Fundamentos de Js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23d60fd7664bb6ef",
+  "lastOpenFiles": [
+    "2 - Fundamentos de Js.md",
+    "3 - Ciclos y estructuras de control.md",
+    "1 - Introduccion a JS y la consola.md",
+    "Pasted image 20220321081338.png",
+    "Pasted image 20220319101358.png",
+    "Pasted image 20220319095232.png",
+    "Pasted image 20220318223049.png",
+    "Pasted image 20220318222131.png",
+    "Pasted image 20220313233523.png"
+  ]
+}

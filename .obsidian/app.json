@@ -1,0 +1,7 @@
+{
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true
+}
